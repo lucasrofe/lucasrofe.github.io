@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: Lucas Rocha Ferreira
-description: PhD student studying the Association Genomics of the Yellow Mealworm (_Tenebrio molitor_) 🐛
+title:"Lucas Rocha Ferreira"
+description: "PhD student studying the Association Genomics of the Yellow Mealworm (_Tenebrio molitor_) 🐛"
 url: "https://lucasrofe.github.io"
 baseurl: "" # Leave this empty for user/organization sites
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
